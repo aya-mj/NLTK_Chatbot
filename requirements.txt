@@ -1,6 +1,6 @@
 # this file has all the libraries required for the project
 # to install all the libraries
-"""  run: pip install -r requirements.txt """
+#run: pip install -r requirements.txt 
 
 # Core NLP Libraries
 nltk
